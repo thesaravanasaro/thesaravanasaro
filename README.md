@@ -21,7 +21,7 @@
 
 - 🧑 Pronouns **He/Him**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VXR212VnacsMGW0NglMEvqbgVR_SXzIB/view?usp=sharing](https://drive.google.com/file/d/1VXR212VnacsMGW0NglMEvqbgVR_SXzIB/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VXR212VnacsMGW0NglMEvqbgVR_SXzIB/view?usp=sharing]([https://drive.google.com/file/d/1VXR212VnacsMGW0NglMEvqbgVR_SXzIB/view?usp=sharing](https://rb.gy/ottp6m))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
