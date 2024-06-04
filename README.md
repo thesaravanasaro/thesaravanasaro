@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thesaravanasaro" target="blank"><img src="https://img.shields.io/twitter/follow/thesaravanasaro?logo=twitter&style=for-the-badge" alt="thesaravanasaro" /></a> </p>
 
-- 🌱 I’m currently learning **GCP,React,mongoDB**
+- 🌱 I’m currently learning **GCP,React,mongoDB,MLops**
 
 - 👯 I’m looking to collaborate on **blogs**
 
