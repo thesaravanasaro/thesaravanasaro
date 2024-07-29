@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SARAVANA RAJA G</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Self_Learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thesaravanasaro&label=Profile%20views&color=0e75b6&style=flat" alt="thesaravanasaro" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/thesaravanasaro" target="blank"><img src="https://img.shields.io/twitter/follow/thesaravanasaro?logo=twitter&style=for-the-badge" alt="thesaravanasaro" /></a> </p>
 
-- 🌱 I’m currently learning **GCP,React,mongoDB,MLops**
+- 🌱 I’m currently learning **ML,CompTIA Network+,Python,Networking**
 
 - 👯 I’m looking to collaborate on **blogs**
 
-- 🤝 I’m looking for help with **Cloud Computing**
+- 🤝 I’m looking for help with **Cloud Computing** and **cybersecurity_certifications**
 
 - 📝 I regularly write articles on [https://medium.com/@thesaravanasaro](https://medium.com/@thesaravanasaro)
 
-- 💬 Ask me about **Cloud Engineer and preparing for Cloud certification**
+- 💬 Ask me about **Cloud Engineer and preparing for Cloud certification & Cybersecurity certification**
 
 - 📫 How to reach me **saravanarajag04@gmail.com**
 
