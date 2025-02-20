@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Cloud Engineer and preparing for Cloud certification & Cybersecurity certification**
 
-- 📫 How to reach me **saravanarajag04@gmail.com**
+- 📫 How to reach me **thesaravanasaro@gmail.com**
 
 - 🧑 Pronouns **He/Him**
 
