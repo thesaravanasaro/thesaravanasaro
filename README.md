@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/thesaravanasaro" target="blank"><img src="https://img.shields.io/twitter/follow/thesaravanasaro?logo=twitter&style=for-the-badge" alt="thesaravanasaro" /></a> </p>
 
-- 🌱 I’m currently learning **ML,CompTIA Network+,Python,Networking**
+- 🌱 I’m currently learning **Full stack development**
 
 - 👯 I’m looking to collaborate on **blogs**
 
-- 🤝 I’m looking for help with **Cloud Computing** and **cybersecurity_certifications**
+- 🤝 I’m looking for help with **Cloud Computing** and **full stack development**
 
 - 📝 I regularly write articles on [https://medium.com/@thesaravanasaro](https://medium.com/@thesaravanasaro)
 
